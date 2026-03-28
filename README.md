@@ -73,6 +73,8 @@ El modelo fue evaluado mediante: Matriz de confusión Métricas como:
 * Recall
 * F1-score
 
+<img width="539" height="455" alt="image" src="https://github.com/user-attachments/assets/f0f54233-b24d-42bd-8a96-c4eced8c5014" />
+
 ### Optimización del threshold
 Se identificó: Alto recall (buena detección de positivos) Baja precisión (alto número de falsos positivos)
 Ajuste inicial de threshold
